@@ -11,7 +11,7 @@ window.addEventListener("scroll", () => {
 // Profile section redirecting
 const profileIcon = document.querySelector(".profile-icon");
 profileIcon.addEventListener("click", () => {
-  window.location.href = "profile-details.html";
+  window.location.href = "PROFILE.HTML";
 });
 
 // Movie card
